@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oiernekopass.github.io</id>
+    <title>NekoPass 的博客</title>
+    <updated>2023-07-21T03:04:33.061Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oiernekopass.github.io"/>
+    <link rel="self" href="https://oiernekopass.github.io/atom.xml"/>
+    <subtitle>随笔&amp;题解&amp;混分记录</subtitle>
+    <logo>https://oiernekopass.github.io/images/avatar.png</logo>
+    <icon>https://oiernekopass.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, NekoPass 的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[牛客多校赛 第一场 解题记录]]></title>
+        <id>https://oiernekopass.github.io/post/niu-ke-duo-xiao-sai-di-yi-chang-jie-ti-ji-lu/</id>
+        <link href="https://oiernekopass.github.io/post/niu-ke-duo-xiao-sai-di-yi-chang-jie-ti-ji-lu/">
+        </link>
+        <updated>2023-07-21T02:19:54.000Z</updated>
+        <content type="html"><![CDATA[<p>题目：<br>
+A.构造<br>
+D.签到题<br>
+H.<br>
+J.博弈论<br>
+K.<br>
+M.数论</p>
+<p>A</p>
+]]></content>
+    </entry>
+</feed>
